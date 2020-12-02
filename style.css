@@ -86,8 +86,8 @@ article a{
   text-decoration-line: none;
 }
 
-article a:hover{
-  size: 110em;
+article a:hover {
+  font-size: 15.4px;
   color: black; 
 }
 
