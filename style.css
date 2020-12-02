@@ -1,3 +1,33 @@
+* {
+  margin: 0;
+}
 h1 {
   font-size: 300 px;
+}
+
+header{
+  background-color: #00c9fd;
+}
+header h1{
+  padding: 10px;
+}
+
+#wrapper{
+  width: 900px;
+  background-color: #ff3333;
+}
+
+nav{
+  width: 900px;
+  background-color: #cccccc;
+}
+
+article{
+  width: 900px;
+  background-color: #cccccc;
+}
+
+footer{
+  width: 900px;
+  background-color: #00c9fd;
 }
